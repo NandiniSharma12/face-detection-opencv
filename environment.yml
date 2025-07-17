@@ -1,0 +1,11 @@
+name: cs-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - opencv
+  - jupyter
+  - pip
+  - pip:
+      - urllib3
