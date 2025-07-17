@@ -25,6 +25,15 @@ Compared to models like TensorFlow or PyTorch, Caffe is **less resource-intensiv
 
 ---
 
+Thanks! Here's your corrected `README.md` **with proper markdown syntax** — I’ve fixed the heading formatting, closed the code block, and made sure all sections are rendered correctly.
+
+---Thanks! Here's your corrected `README.md` **with proper markdown syntax** — I’ve fixed the heading formatting, closed the code block, and made sure all sections are rendered correctly.
+
+---
+
+
+## ▶️ Environment Setup
+````markdown
 ## 🧪 Environment Setup
 
 We used the **Conda tool** to manage the environment. To recreate the environment:
@@ -32,16 +41,30 @@ We used the **Conda tool** to manage the environment. To recreate the environmen
 ```bash
 conda env create -f environment.yml
 conda activate cs-env
+````
+
+---
 
 
-RUN THE PROJECT
+## ▶️ Run the Project
+
+```bash
 jupyter notebook
+```
 
-## 🙋‍♀️ Author
+---
 
-Nandini Sharma
-🔗 www.linkedin.com/in/nandinisharma12
+## 👤 Author
+
+**Nandini Sharma**
+🔗 [LinkedIn](https://www.linkedin.com/in/nandinisharma12)
+
+---
 
 ## 🗂️ Assets
 
 Model files are automatically downloaded at runtime from Dropbox, ensuring a smooth setup.
+
+````
+
+---
